@@ -1,0 +1,13 @@
+.new{
+    width: "100%";
+ 
+}
+
+.container{
+    flex: 1;
+}
+
+.top{
+    padding: "10px";
+}
+
