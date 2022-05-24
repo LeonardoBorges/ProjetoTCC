@@ -87,7 +87,7 @@ export default function Sidebar() {
             </li>
             <li className="sidebarListItem">
               <FaIndustry className="sidebarIcon"/>
-                Sobre a Empresa
+                Sobre a Empresa.
             </li>
           </ul>
         </div>
