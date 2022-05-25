@@ -1,3 +1,7 @@
 .listContainer{
- /*display: 4;*/
+    position: center;        
+    margin-left: 10.5%;        
+    box-sizing: border-box;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }

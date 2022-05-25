@@ -10,7 +10,7 @@ export default function Topbar() {
     <div className="topbar">
       <div className="tobparWrapper">
         <div className="topLeft">
-          <span className="logo">PagBarato</span>
+          <span className="logo_PagBarato">PagBarato</span>
         </div>
         <div className="topRight">
           <div className="topbarIconContainer">

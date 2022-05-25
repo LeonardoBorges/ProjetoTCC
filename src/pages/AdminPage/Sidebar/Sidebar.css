@@ -1,7 +1,7 @@
 .sidebar{
   flex: 1;
-  height: '500%';
-  width: "1000%";
+  height: 899px;
+  width: 200px;
   background-image: linear-gradient(to bottom, #F8FBF3,lightgreen);
   left: 0;
   top: 50;
